@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-ethers": "^3.0.4"
+  }
+}
